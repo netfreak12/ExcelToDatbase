@@ -131,14 +131,12 @@ An error occurred: The specified Excel file does not exist.
 
 > Screenshots showing execution output, sample Excel file, and database results before and after.
 
-### Example Screenshots
-
-| Description                        | Image Path                                                              |
-|------------------------------------|-------------------------------------------------------------------------|
-| Console Execution Output           | ![ Console Execution Output]screenshots/console-output.png              |
-| Excel File Preview                 | ![ Excel File Preview]screenshots/excel-preview.png                     |
-|SQL Table Before Insertion          | ![ SQL Table Before Insertion]screenshots/sql-table-before-insertion.png|
-| SQL Table After Insertion          | ![ SQL Table After Insertion]screenshots/sql-table-result.png           |
+| Description                        | Screenshot                                                                |
+|------------------------------------|---------------------------------------------------------------------------|
+| Console Execution Output           | ![Console Output](screenshots/console-output.png)                         |
+| Excel File Preview                 | ![Excel Preview](screenshots/excel-preview.png)                           |
+| SQL Table Before Insertion         |  ![SQL Table before_insertion](screenshots/sql-table-before-insertion.png)|
+| SQL Table After Insertion          |  ![SQL Table Result](screenshots/sql-table-result.png)                    |
 
 ---
 
